@@ -1,5 +1,5 @@
 /**
- * @file project_main.h
+ * @file project_main.c
  * @author Annapurna Bisanalli
  * @brief 
  * @version 0.1
