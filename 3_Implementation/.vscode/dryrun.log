@@ -1,0 +1,5 @@
+make.exe --dry-run --keep-going --print-directory
+make.exe: Entering directory 'c:/Users/Annapurna/Desktop/3_Implementation'
+gcc project_main.c src/airline_reservation.c -Iinc -Iunity  -o build/Airline_Reservation.out.out
+make.exe: Leaving directory 'c:/Users/Annapurna/Desktop/3_Implementation'
+ 
