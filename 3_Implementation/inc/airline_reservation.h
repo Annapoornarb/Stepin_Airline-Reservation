@@ -1,5 +1,5 @@
 /**
- * @file airline_booking.h
+ * @file airline_reservation.h
  * @author Annapurna Bisanalli
  * @brief 
  * @version 0.1
