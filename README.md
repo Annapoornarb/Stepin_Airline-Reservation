@@ -20,9 +20,9 @@ Folder             | Description
 
 ## Contributors List and Summary
 
-SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`260204` | Annapurna Bisanalli  | Able to add new passenger to the airline and display the same. Able to allot seats and passenger id to the passenger. Able to calculate the total price details. | X No     | X No   |X No   |Yes     
+`99006048` | Annapurna Bisanalli  | Able to add new passenger to the airline and display the same. Able to allot seats and passenger id to the passenger. Able to calculate the total price details. | X No     | X No   |X No   |Yes     
    
 
 ## Challenges Faced and How Was It Overcome
