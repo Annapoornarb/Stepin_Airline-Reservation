@@ -38,9 +38,13 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 
 
 [![CI](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/build.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/build.yml)
+
 [![cppcheck-action](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/cpp.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/cpp.yml)
+
 [![Unit Testing](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/unit-test.yml)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e241101414794ea1a903dca1519f7636)](https://www.codacy.com/gh/Annapoornarb/Stepin_Airline-Reservation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Annapoornarb/Stepin_Airline-Reservation&amp;utm_campaign=Badge_Grade)
 
 [![Git Inspector](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/gitinspector.yml)
+
+[![Valgrind](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/codequality_valgrind.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/codequality_valgrind.yml)
