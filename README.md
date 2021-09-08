@@ -34,4 +34,5 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 [![CI](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/build.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/build.yml)
 
 [![cppcheck-action](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/cpp.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/cpp.yml)
+[![Valgrind](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/valgrind.yml)
 
