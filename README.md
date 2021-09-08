@@ -36,3 +36,5 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 [![Unit Testing](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/unit-test.yml)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e241101414794ea1a903dca1519f7636)](https://www.codacy.com/gh/Annapoornarb/Stepin_Airline-Reservation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Annapoornarb/Stepin_Airline-Reservation&amp;utm_campaign=Badge_Grade)
+
+[![Git Inspector](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/gitinspector.yml)
