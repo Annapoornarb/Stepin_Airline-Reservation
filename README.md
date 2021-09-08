@@ -30,6 +30,12 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 1. IDE Challenges
 2. Writing some functionalities. It was resolved by debugging
 
+## Learning Resources
+1. Futureskill reference videos.
+2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
+3. [git inspector](https://github.com/ejwa/gitinspector.git)
+4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
+
 
 [![CI](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/build.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/build.yml)
 [![cppcheck-action](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/cpp.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/cpp.yml)
