@@ -31,3 +31,4 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 2. Writing some functionalities. It was resolved by debugging
 
 
+[![CI](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/build.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/build.yml)
