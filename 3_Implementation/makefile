@@ -1,6 +1,6 @@
 
 
-PROJ_NAME = Airline
+PROJ_NAME = Airline_Reservation
 SRC = test_project_main.c\
 src/airline_reservation.c\
 
