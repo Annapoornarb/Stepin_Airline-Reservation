@@ -2,6 +2,18 @@
 # Stepin_Airline-Reservation
 ![Banner](https://github.com/Annapoornarb/Stepin_Airline-Reservation/blob/main/1_Requirements/banner.png)
 
+[![CI](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/build.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/build.yml)
+
+[![cppcheck-action](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/cpp.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/cpp.yml)
+
+[![Unit Testing](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/unit-test.yml)
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e241101414794ea1a903dca1519f7636)](https://www.codacy.com/gh/Annapoornarb/Stepin_Airline-Reservation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Annapoornarb/Stepin_Airline-Reservation&amp;utm_campaign=Badge_Grade)
+
+[![Git Inspector](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/gitinspector.yml)
+
+[![Valgrind](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/codequality_valgrind.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/codequality_valgrind.yml)
+
 # About projects 
 Talking about the features of Airline Reservation, the system asks for the passenger’s information such as name, passport no, email id. After all these procedures,  a reservation is done. As a reservation proof, the system provides seat number.  In order to check tickets, the user has to provide seat no. then only the system check for the respective tickets in the database and displays a result. Canceling a flight reservation is easy through the system, the user just has to provide their seat number.
 # Features
@@ -37,14 +49,4 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
 
 
-[![CI](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/build.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/build.yml)
 
-[![cppcheck-action](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/cpp.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/cpp.yml)
-
-[![Unit Testing](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/unit-test.yml)
-
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e241101414794ea1a903dca1519f7636)](https://www.codacy.com/gh/Annapoornarb/Stepin_Airline-Reservation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Annapoornarb/Stepin_Airline-Reservation&amp;utm_campaign=Badge_Grade)
-
-[![Git Inspector](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/gitinspector.yml)
-
-[![Valgrind](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/codequality_valgrind.yml/badge.svg)](https://github.com/Annapoornarb/Stepin_Airline-Reservation/actions/workflows/codequality_valgrind.yml)
