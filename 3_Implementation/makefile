@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = Airline_Reservation
+PROJECT_NAME = Airline_Reservation_System
 
 # Output directory
 BUILD = build
